@@ -1,0 +1,26 @@
+body {
+  background: #e3f2fd;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  color: #0d47a1;
+}
+
+img {
+  width: 200px;
+  margin: 12px 400px;
+  border-radius: 40px;
+}
+
+.section {
+  background: white;
+  padding: 15px;
+  margin: 15px auto;
+  max-width: 500px;
+  border-left: 4px solid #1976d2;
+}
